@@ -1,3 +1,17 @@
+#Калькулятор случайных значений
+
+Простой калькулятор двух случайных значений. Промежуточное задание по курсу фреймворка React.
+
+![Calc](https://user-images.githubusercontent.com/95663034/153779554-aabc10bc-ed33-4e14-a070-c95bb9e1b2e7.gif)
+
+##Запуск
+
+Необходим установленный Node.js.
+
+Запустите в терминале проекта следующие команды:<br>
+npm install<br>
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
